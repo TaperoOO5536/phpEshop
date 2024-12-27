@@ -1,0 +1,313 @@
+17-12-2024 12:53:24 - Undefined variable $DB in C:\Used\php\eshop\core\init.php:43
+17-12-2024 12:53:24 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 43 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:11:19 - Undefined variable $DB in C:\Used\php\eshop\core\init.php:43
+17-12-2024 13:11:19 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 43 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:13:39 - Undefined variable $DB in C:\Used\php\eshop\core\init.php:43
+17-12-2024 13:13:39 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 43 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:23:04 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:23:57 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:24:37 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:24:44 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:24:54 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:25:03 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:25:12 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:25:44 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:26:18 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:29:42 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:29:52 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:29:57 - Eshop::init(): Argument #1 ($db) must be of type array, null given, called in C:\Used\php\eshop\core\init.php on line 46 in C:\Used\php\eshop\core\Eshop.class.php:4
+17-12-2024 13:31:09 - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\Used\php\eshop\core\Eshop.class.php:5
+17-12-2024 13:31:32 - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\Used\php\eshop\core\Eshop.class.php:5
+17-12-2024 13:31:36 - SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) in C:\Used\php\eshop\core\Eshop.class.php:5
+17-12-2024 13:32:33 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:6
+17-12-2024 16:27:46 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:6
+17-12-2024 16:27:50 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:6
+17-12-2024 16:31:19 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:31:39 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:33:03 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:33:26 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:34:58 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:35:06 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:35:35 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:36:45 - Undefined constant PDO::ATTR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+17-12-2024 16:43:10 - Undefined constant PDO::ATTR_ERROR_MODE in C:\Used\php\eshop\core\Eshop.class.php:7
+18-12-2024 18:28:03 - Array to string conversion in C:\Used\php\eshop\app\admin\save_item_to_catalog.php:3
+19-12-2024 10:37:29 - Undefined constant "title" in C:\Used\php\eshop\app\admin\save_item_to_catalog.php:5
+19-12-2024 10:38:16 - Cannot access private property Eshop::$db in C:\Used\php\eshop\app\admin\save_item_to_catalog.php:5
+19-12-2024 10:54:03 - Call to undefined method Eshop::cleanBook() in C:\Used\php\eshop\core\Eshop.class.php:13
+19-12-2024 11:15:26 - Too few arguments to function Book::__construct(), 0 passed and exactly 1 expected in C:\Used\php\eshop\core\Book.class.php:9
+19-12-2024 11:26:59 - Object of class PDOStatement could not be converted to string in C:\Used\php\eshop\core\Eshop.class.php:27
+19-12-2024 11:28:01 - Serialization of 'PDOStatement' is not allowed in C:\Used\php\eshop\core\Eshop.class.php:27
+19-12-2024 11:28:37 - Undefined variable $books in C:\Used\php\eshop\app\catalog.php:26
+19-12-2024 11:28:37 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\catalog.php:26
+19-12-2024 14:26:28 - Class "PDOL" not found in C:\Used\php\eshop\core\Eshop.class.php:26
+19-12-2024 14:27:23 - Undefined variable $book in C:\Used\php\eshop\app\catalog.php:29
+19-12-2024 14:27:23 - Attempt to read property "title" on null in C:\Used\php\eshop\app\catalog.php:29
+19-12-2024 14:27:23 - Undefined variable $book in C:\Used\php\eshop\app\catalog.php:30
+19-12-2024 14:27:23 - Attempt to read property "author" on null in C:\Used\php\eshop\app\catalog.php:30
+19-12-2024 14:27:23 - Undefined variable $book in C:\Used\php\eshop\app\catalog.php:31
+19-12-2024 14:27:23 - Attempt to read property "pubyear" on null in C:\Used\php\eshop\app\catalog.php:31
+19-12-2024 14:27:23 - Undefined variable $book in C:\Used\php\eshop\app\catalog.php:32
+19-12-2024 14:27:23 - Attempt to read property "price" on null in C:\Used\php\eshop\app\catalog.php:32
+19-12-2024 14:36:25 - Too few arguments to function Book::__construct(), 0 passed and exactly 1 expected in C:\Used\php\eshop\core\Book.class.php:9
+19-12-2024 15:08:52 - Call to undefined function set() in C:\Used\php\eshop\core\Basket.class.php:7
+20-12-2024 11:13:29 - Array to string conversion in C:\Used\php\eshop\core\Basket.class.php:38
+20-12-2024 11:45:17 - Undefined constant Eshop::getItemsFromBasket in C:\Used\php\eshop\app\basket.php:2
+20-12-2024 11:47:39 - Object of class ArrayIterator could not be converted to string in C:\Used\php\eshop\core\Eshop.class.php:42
+20-12-2024 11:49:55 - Array to string conversion in C:\Used\php\eshop\core\Eshop.class.php:42
+20-12-2024 11:49:55 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:43
+20-12-2024 11:49:55 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 11:51:00 - Array to string conversion in C:\Used\php\eshop\core\Eshop.class.php:42
+20-12-2024 11:51:00 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:43
+20-12-2024 11:51:00 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 11:55:11 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetItemsForBasket; expected 1, got 2 in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 11:55:11 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:45
+20-12-2024 12:10:48 - Call to undefined method PDO::execute() in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 12:11:34 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetItemsForBasket; expected 1, got 2 in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 12:11:34 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:45
+20-12-2024 12:11:38 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetItemsForBasket; expected 1, got 2 in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 12:11:38 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:45
+20-12-2024 12:14:10 - Undefined variable $productIds in C:\Used\php\eshop\core\Eshop.class.php:45
+20-12-2024 12:28:53 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetItemsForBasket; expected 1, got 3 in C:\Used\php\eshop\core\Eshop.class.php:44
+20-12-2024 12:28:53 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:48
+20-12-2024 12:30:27 - array_keys(): Argument #1 ($array) must be of type array, ArrayIterator given in C:\Used\php\eshop\core\Eshop.class.php:42
+20-12-2024 13:51:52 - Array to string conversion in C:\Used\php\eshop\app\save_order.php:4
+20-12-2024 14:06:05 - Undefined constant Eshop::db in C:\Used\php\eshop\core\Eshop.class.php:55
+20-12-2024 14:07:41 - Call to undefined function rollBack() in C:\Used\php\eshop\core\Eshop.class.php:71
+20-12-2024 14:08:05 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:72
+20-12-2024 14:09:27 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:72
+20-12-2024 14:09:40 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:72
+20-12-2024 14:09:57 - SQLSTATE[01000]: Warning: 1265 Data truncated for column 'order_id' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:72
+20-12-2024 14:10:52 - SQLSTATE[01000]: Warning: 1265 Data truncated for column 'order_id' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:72
+21-12-2024 11:40:51 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0c7725247398c021a100582990b8d2fc' for key 'orders.order_id' in C:\Used\php\eshop\core\Eshop.class.php:72
+21-12-2024 11:43:52 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0c7725247398c021a100582990b8d2fc' for key 'orders.order_id' in C:\Used\php\eshop\core\Eshop.class.php:72
+21-12-2024 11:46:13 - SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0c7725247398c021a100582990b8d2fc' for key 'orders.order_id' in C:\Used\php\eshop\core\Eshop.class.php:72
+21-12-2024 12:01:33 - Cannot use object of type Order as array in C:\Used\php\eshop\app\admin\orders.php:19
+21-12-2024 12:09:26 - Too few arguments to function Cleaner::str2db(), 1 passed in C:\Used\php\eshop\core\Eshop.class.php on line 105 and exactly 2 expected in C:\Used\php\eshop\core\Cleaner.class.php:12
+21-12-2024 12:20:46 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:20:46 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:20:46 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:21:30 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:21:30 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:21:30 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:22:18 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:22:18 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:22:18 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:99
+21-12-2024 12:22:58 - Undefined variable $orders in C:\Used\php\eshop\core\Eshop.class.php:95
+21-12-2024 12:22:58 - ArrayIterator::__construct(): Argument #1 ($array) must be of type array, null given in C:\Used\php\eshop\core\Eshop.class.php:95
+21-12-2024 12:23:37 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:23:37 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:23:37 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:24:44 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:24:44 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:24:44 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:24:44 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:24:44 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:24:44 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:24:56 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:24:56 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:24:56 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:32 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:32 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:32 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:32 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:25:32 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:25:32 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:25:40 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:40 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:40 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:25:40 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:25:40 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:25:40 - foreach() argument must be of type array|object, null given in C:\Used\php\eshop\app\admin\orders.php:37
+21-12-2024 12:26:09 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:26:09 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:26:09 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:26:09 - Undefined variable $count in C:\Used\php\eshop\app\admin\orders.php:41
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Attempt to read property "title" on null in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Attempt to read property "author" on null in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Attempt to read property "pubyear" on null in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:26:09 - Attempt to read property "price" on null in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:26:09 - Undefined variable $count in C:\Used\php\eshop\app\admin\orders.php:41
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Attempt to read property "title" on null in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Attempt to read property "author" on null in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Attempt to read property "pubyear" on null in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:26:09 - Attempt to read property "price" on null in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:26:09 - Undefined variable $count in C:\Used\php\eshop\app\admin\orders.php:41
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Attempt to read property "title" on null in C:\Used\php\eshop\app\admin\orders.php:42
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Attempt to read property "author" on null in C:\Used\php\eshop\app\admin\orders.php:43
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Attempt to read property "pubyear" on null in C:\Used\php\eshop\app\admin\orders.php:44
+21-12-2024 12:26:09 - Undefined variable $book in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:26:09 - Attempt to read property "price" on null in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:27:33 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:27:33 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:27:33 - PDO::query(): SQLSTATE[HY000]: General error: 2014 Cannot execute queries while there are pending result sets. Consider unsetting the previous PDOStatement or calling PDOStatement::closeCursor() in C:\Used\php\eshop\core\Eshop.class.php:100
+21-12-2024 12:33:56 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '0c7725247398c021a100582990b8d2fc' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:33:56 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '2a53d4184fbe431f7552daee71c19318' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:33:56 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '903c7fba84a05ae7ed7ddd7e8b92e8d0' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:36:00 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '0c7725247398c021a100582990b8d2fc' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:36:00 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '2a53d4184fbe431f7552daee71c19318' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:36:00 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '903c7fba84a05ae7ed7ddd7e8b92e8d0' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:101
+21-12-2024 12:36:54 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '0c7725247398c021a100582990b8d2fc' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:102
+21-12-2024 12:36:54 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '2a53d4184fbe431f7552daee71c19318' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:102
+21-12-2024 12:36:54 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '903c7fba84a05ae7ed7ddd7e8b92e8d0' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:102
+21-12-2024 12:45:35 - Undefined constant "BOOKS_IN_ORDER_SHOW_ERROR" in C:\Used\php\eshop\app\admin\orders.php:45
+21-12-2024 12:47:11 - Undefined variable $priceCount in C:\Used\php\eshop\app\admin\orders.php:66
+21-12-2024 12:47:11 - Undefined variable $priceCount in C:\Used\php\eshop\app\admin\orders.php:66
+21-12-2024 12:47:11 - Undefined variable $priceCount in C:\Used\php\eshop\app\admin\orders.php:66
+26-12-2024 15:33:02 - password_hash() expects at least 2 arguments, 1 given in C:\Used\php\eshop\app\catalog.php:2
+26-12-2024 15:35:34 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:166
+26-12-2024 15:35:34 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:35:34 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:167
+26-12-2024 15:35:34 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:35:34 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:168
+26-12-2024 15:35:34 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:35:34 - Call to undefined method Eshop::checkUser() in C:\Used\php\eshop\app\login.php:5
+26-12-2024 15:36:15 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:166
+26-12-2024 15:36:15 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:15 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:167
+26-12-2024 15:36:15 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:15 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:168
+26-12-2024 15:36:15 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:15 - Call to private method Eshop::userCheck() from global scope in C:\Used\php\eshop\app\login.php:5
+26-12-2024 15:36:45 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:166
+26-12-2024 15:36:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:45 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:167
+26-12-2024 15:36:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:45 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:168
+26-12-2024 15:36:45 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:36:45 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:36:45 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:41:53 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:168
+26-12-2024 15:41:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:41:53 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:169
+26-12-2024 15:41:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:41:53 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:41:53 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:41:53 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:41:53 - count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\Used\php\eshop\core\Eshop.class.php:122
+26-12-2024 15:42:59 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:42:59 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:42:59 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:42:59 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:42:59 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:42:59 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:42:59 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:42:59 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:44:27 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:44:27 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:27 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:44:27 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:27 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:44:27 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:27 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:44:27 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:44:47 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:44:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:47 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:44:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:47 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:44:47 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:47 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:44:47 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:44:50 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:44:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:50 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:44:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:50 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:44:50 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:44:50 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:44:50 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:45:41 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:45:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:41 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:45:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:41 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:45:41 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:41 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:45:41 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:45:49 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:45:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:49 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:45:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:49 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:45:49 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:45:49 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:45:49 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:46:37 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:46:37 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:46:37 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:46:37 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:46:37 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:46:37 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:46:37 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '}' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:46:37 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:47:22 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:47:22 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:22 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:47:22 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:22 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:47:22 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:22 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:47:22 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:47:58 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:47:58 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:58 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:47:58 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:58 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:47:58 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:47:58 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:47:58 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:48:57 - Undefined array key "email" in C:\Used\php\eshop\core\Eshop.class.php:170
+26-12-2024 15:48:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:48:57 - Undefined array key "login" in C:\Used\php\eshop\core\Eshop.class.php:171
+26-12-2024 15:48:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:48:57 - Undefined array key "password" in C:\Used\php\eshop\core\Eshop.class.php:172
+26-12-2024 15:48:57 - strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\Used\php\eshop\core\Cleaner.class.php:10
+26-12-2024 15:48:57 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:48:57 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:49:31 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:49:31 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:50:04 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spGetAdmin; expected 1, got 0 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:50:04 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:50:30 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:50:30 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:52:57 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:52:57 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:53:01 - PDO::query(): SQLSTATE[HY000]: General error: 1366 Incorrect integer value: '' for column 'p_login' at row 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 15:53:01 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 15:53:32 - count(): Argument #1 ($value) must be of type Countable|array, PDOStatement given in C:\Used\php\eshop\core\Eshop.class.php:123
+26-12-2024 15:53:34 - count(): Argument #1 ($value) must be of type Countable|array, PDOStatement given in C:\Used\php\eshop\core\Eshop.class.php:123
+26-12-2024 16:03:43 - Array to string conversion in C:\Used\php\eshop\core\Eshop.class.php:122
+26-12-2024 16:03:43 - Array to string conversion in C:\Used\php\eshop\core\Eshop.class.php:122
+26-12-2024 16:05:26 - Serialization of 'PDOStatement' is not allowed in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:27:30 - count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\Used\php\eshop\core\Eshop.class.php:123
+26-12-2024 16:30:50 - Object of class User could not be converted to string in C:\Used\php\eshop\app\admin\login.php:3
+26-12-2024 16:39:22 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'new'')' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:39:22 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:40:01 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'new'')' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:40:01 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:43:04 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'new'')' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:43:04 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:43:09 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'new'')' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:43:09 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:44:48 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '$2y$10$d3uZbWrKV1kb' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:114
+26-12-2024 16:45:20 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column '$2y$10$79lrJboya' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:114
+26-12-2024 16:49:26 - PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spSaveAdmin; expected 3, got 1 in C:\Used\php\eshop\core\Eshop.class.php:115
+26-12-2024 16:50:00 - PDOStatement::execute(): SQLSTATE[42000]: Syntax error or access violation: 1318 Incorrect number of arguments for PROCEDURE eshop.spSaveAdmin; expected 3, got 1 in C:\Used\php\eshop\core\Eshop.class.php:115
+26-12-2024 16:53:34 - PDO::query(): SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'new'')' at line 1 in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:53:34 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:54:25 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:54:25 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
+26-12-2024 16:54:39 - PDO::query(): SQLSTATE[42S22]: Column not found: 1054 Unknown column 'login' in 'field list' in C:\Used\php\eshop\core\Eshop.class.php:120
+26-12-2024 16:54:39 - Call to a member function fetchAll() on bool in C:\Used\php\eshop\core\Eshop.class.php:121
